@@ -1,0 +1,19 @@
+[
+  {
+    "role": "UI Developer",
+    "organisation": "Reliance Jio",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Various Jio client projects and video walls in NOC", "Better UI and optimised sites"],
+    "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "UI Intern",
+    "organisation": "Sahu Tech",
+    "startDate": "Oct, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": ["Designing various frames for website", "Making creative frontend using the frames"],
+    "imageSrc": "history/sahu.png"
+  }
+  
+]

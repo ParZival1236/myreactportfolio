@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Dont Throw It Away",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a website designed to educate users about e-waste, including proper disposal methods and how e-waste can be transformed into valuable resources.",
+    "skills": ["HTML", "CSS", "Javascript","Firebase"],
+    "demo": "https://pblgroup1.netlify.app/",
+    "source": "https://github.com/ParZival1236/dont-throw"
+  },
+  {
+    "title": "Radiant Scorer",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a website designed for interactive learning through games, featuring a quiz and reward system to help users learn and understand new concepts in fun and engaging way.",
+    "skills": ["HTML", "CSS", "Javascript", "Github pages"],
+    "demo": "https://parzival1236.github.io/",
+    "source": "https://github.com/ParZival1236/parzival1236.github.io"
+  },
+  {
+    "title": "Rcare",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a mobile application designed for mental healthcare. It allows users to track their mood by keeping a journal, recording daily mood levels, and accessing personalized content to enhance mental well-being.",
+    "skills": ["Android Studio", "Figma", "SQLite"],
+    "demo": " ",
+    "source": "https://github.com/ParZival1236/Rcare"
+  }
+  
+]
